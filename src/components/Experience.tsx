@@ -25,7 +25,7 @@ const Experience = () => {
     {
       title: "Technical Head",
       company: "GDG On Campus",
-      period: "2023 - Present",
+      period: "2024 - 2025",
       location: "GL Bajaj Institute",
       description:
         "Leading technical initiatives and organizing workshops for Google Developer Groups. Mentoring students in various technologies.",
@@ -34,7 +34,7 @@ const Experience = () => {
     {
       title: "Technical Head",
       company: "GeeksforGeeks GL Bajaj",
-      period: "2023 - Present",
+      period: "2024 - 2025",
       location: "GL Bajaj Institute",
       description:
         "Organizing coding competitions and technical workshops. Building a strong coding community among students.",
